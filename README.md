@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DontEvenTalkToMe
+- 👀 I’m interested in learning computer science
+- 🌱 I’m currently learning scratch and python
