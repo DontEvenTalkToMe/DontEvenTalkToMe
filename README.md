@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @DontEvenTalkToMe
-- 👀 I am learning computer science
-- 🌱 I’m currently learning Scratch, Python, C and JavaScript
+- 🌱 I’m currently proficient in bash and Python and trying(desperately) to learn C
+- 🌐 I have a website: www.klipps.xyz 
