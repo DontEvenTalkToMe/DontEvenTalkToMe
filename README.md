@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @DontEvenTalkToMe
-- 🌱 I’m currently proficient in bash and Python and trying(desperately) to learn C
+- 🌱 I’m proficient in bash and Python and trying(desperately) to learn C
 - 🌐 I have a website: www.klipps.xyz 
